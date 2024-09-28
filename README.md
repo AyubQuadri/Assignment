@@ -14,7 +14,7 @@ Documentation is carried out on https://monogr.ph/66f15ebbaf3b9995fec7b814
 * For AdaRound regularization Beta param is to linearly decay it from 20 to 2. 
 * AdaRound for 5000 iterations shows good results 
 
-#Deliverables 
+# Deliverables 
 
 * Code 
 * Report {Arch, Quant method and Algo applied, Results, challenges faced and how addressed}
