@@ -6,7 +6,7 @@ Documentation is carried out on https://monogr.ph/66f15ebbaf3b9995fec7b814
 
 # Things to be taken into consideration.
 
--Item use seed method to reproduce the results
+* use seed method to reproduce the results
 -Item Set a side 128 images for quantization work
 -Item Weights: AdaRound Algorithms weights uniformly to 2 bits
 -Item Activation: 4 bit using Method of your choice (Min, Max or MSE) ensure uniform affine manner 
